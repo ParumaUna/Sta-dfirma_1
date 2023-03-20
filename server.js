@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/blog', (req, res) => {
-    res.send('Hello Blog, My name is Devtamin')
+    res.send('Hello Blog, My name is Una')
 })
 
 app.get('/products', async(req, res) => {
